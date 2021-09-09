@@ -32,3 +32,5 @@
 [![](https://file.modx.pro/files/e/0/7/e070084b44b129fbeb24034be9c93387s.jpg)](https://file.modx.pro/files/e/0/7/e070084b44b129fbeb24034be9c93387.png)
 
 [1]: https://developers.facebook.com/apps
+
+в поле **"Действительные URI перенаправления для OAuth"** должно быть https://sitename.ltd/?hauth.done=Facebook
